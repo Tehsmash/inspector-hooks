@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = inspector_hooks
+omit = inspector_hooks/openstack/*
+
+[report]
+ignore_errors = True
